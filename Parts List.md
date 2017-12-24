@@ -2,7 +2,7 @@ Ardunio Uno
 
 Temperature Probe. I used a	6" Temperature Sensor DS18B20 from brewershardware.com (SKU TPDS6) but I don't think they sell this anymore. Could replace with https://www.adafruit.com/product/642 although the short probe length might be annyoing for yogurt making. 
 
-WindShield https://www.adafruit.com/product/196
+WingShield https://www.adafruit.com/product/196
 
 Buzzer - https://www.adafruit.com/product/160
 
